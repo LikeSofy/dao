@@ -1,0 +1,10 @@
+Book1 Book1Author1,Book1Author2 publishingHouse1 2000 200 500 HARD
+Book2 Book2Author publishingHouse2 2005 300 500 HARD
+Book3 Book3Author1,Book3Author2,Book3Author3 publishingHouse3 2000 300 500 HARD
+Book4 Book4Author publishingHouse4 2007 210 700 SOFT
+Book5 Book5Author publishingHouse5 2010 220 500 HARD
+Book6 Book6Author publishingHouse6 2015 200 900 SOFT
+Book7 Book7Author publishingHouse7 2009 250 500 HARD
+Book8 Book8Author publishingHouse8 2012 290 500 HARD
+Book9 Book9Author publishingHouse9 2008 200 600 SOFT
+Book10 Book10Author publishingHouse10 2007 200 510 HARD
